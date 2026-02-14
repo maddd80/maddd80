@@ -39,7 +39,7 @@ I also build gameplay systems in **Unreal Engine** and **Unity**, with a strong 
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Engines & Platforms**
-- RedM
+- [![RedM](https://img.shields.io/badge/fivem%2Fredm-F40552?style=for-the-badge&logo=fivem)](https://cfx.re)
 - [![Unity](https://img.shields.io/badge/unreal-white?style=for-the-badge&logo=unrealengine&logoColor=black)](https://www.unrealengine.com)
 - [![Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity3d.com)
 
