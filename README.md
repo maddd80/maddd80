@@ -29,8 +29,6 @@ I also build gameplay systems in **Unreal Engine** and **Unity**, with a strong 
 - Native-feeling animations & scenarios
 - Minimal overhead, maximum immersion
 
-*(Pin your **best 3–5 repos** above. If you don’t have them, that’s your next problem to solve.)*
-
 ---
 
 ## Tech I Actually Use
