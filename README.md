@@ -47,9 +47,9 @@ I also build gameplay systems in **Unreal Engine** and **Unity**, with a strong 
 
 ## Online Presence
 
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram?style=for-the-badge&logoColor=white)](https://instagram.com/maddd.w)
-- [![X](https://img.shields.io/badge/X-black.svg?logo=X?style=for-the-badge&logoColor=white)](https://x.com/maddd_kw)
-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube?style=for-the-badge&logoColor=white)](https://youtube.com/@IanMad)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/maddd.w)
+- [![X](https://img.shields.io/badge/X-black.svg?logo=X?style=for-the-badge&style=for-the-badge&logoColor=white)](https://x.com/maddd_kw)
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube?style=for-the-badge&logoColor=white)](https://youtube.com/@IanMad)
 
 ---
 
