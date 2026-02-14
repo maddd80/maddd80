@@ -40,8 +40,8 @@ I also build gameplay systems in **Unreal Engine** and **Unity**, with a strong 
 
 **Engines & Platforms**
 - RedM
-- Unreal Engine
-- [![Made with Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity3d.com)
+- [![Unity](https://img.shields.io/badge/unreal-white?style=for-the-badge&logo=unrealengine&logoColor=black)](https://www.unrealengine.com)
+- [![Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity3d.com)
 
 ---
 
