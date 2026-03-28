@@ -17,19 +17,6 @@ I also build gameplay systems in **Unreal Engine** and **Unity**, with a strong 
 
 ---
 
-## Featured Work
-
-### 🔹 Advanced Interaction System (RedM)
-- Custom prompt system with replaceable UI
-- Optimized entity detection
-- Drop-in compatibility for any server framework
-
-### 🔹 Immersive RP Mechanics
-- Context-aware interactions
-- Native-feeling animations & scenarios
-- Minimal overhead, maximum immersion
-
----
 
 ## Tech I Actually Use
 
